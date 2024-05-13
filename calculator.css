@@ -1,0 +1,68 @@
+
+html,body{
+    height: 50%;
+    width: 50%;
+   
+}
+.row input{
+    margin: 5px;
+    padding: 5px;
+    width: 210px;
+    height: 20px;
+    border: 1px 1px;   
+}
+.row{
+    padding: 2px 2px;
+    
+}
+.button{
+    padding: 20.7px;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 9px;   
+    cursor: pointer;
+}  
+
+ /* .button1,.button2,.button3,.buttonMul{ 
+    padding: 20.7px;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 9px;   
+    cursor: pointer;
+}
+.button4,.button5,.button6,.buttonSub{
+    padding: 20.5px;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+   
+}
+.button7,.button8,.button9,.buttonAdd{
+    padding: 20px;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+}
+.buttonDiv,.button0,.buttonPoint,.buttonEqual{
+    padding: 20.7px;
+    color:black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    
+}  
+.row1,.row2,.row3,.row4{*/
